@@ -1,0 +1,16 @@
+C:\GithubRepo\Okaso-Engine\Okaso\src\Animation\Animation.cpp;C:\GithubRepo\Okaso-Engine\Okaso\x64\Debug\Animation.obj
+C:\GithubRepo\Okaso-Engine\Okaso\src\Animation\Frame.cpp;C:\GithubRepo\Okaso-Engine\Okaso\x64\Debug\Frame.obj
+C:\GithubRepo\Okaso-Engine\Okaso\src\BaseGame\BaseGame.cpp;C:\GithubRepo\Okaso-Engine\Okaso\x64\Debug\BaseGame.obj
+C:\GithubRepo\Okaso-Engine\Okaso\src\Colitions\Colitions.cpp;C:\GithubRepo\Okaso-Engine\Okaso\x64\Debug\Colitions.obj
+C:\GithubRepo\Okaso-Engine\Okaso\src\Entity\Entity.cpp;C:\GithubRepo\Okaso-Engine\Okaso\x64\Debug\Entity.obj
+C:\GithubRepo\Okaso-Engine\Okaso\src\Entity\Entity2D\Entity2D.cpp;C:\GithubRepo\Okaso-Engine\Okaso\x64\Debug\Entity2D.obj
+C:\GithubRepo\Okaso-Engine\Okaso\src\Entity\Entity2D\Shape\Primitives\Rectangle.cpp;C:\GithubRepo\Okaso-Engine\Okaso\x64\Debug\Rectangle.obj
+C:\GithubRepo\Okaso-Engine\Okaso\src\Entity\Entity2D\Shape\Primitives\Triangle.cpp;C:\GithubRepo\Okaso-Engine\Okaso\x64\Debug\Triangle.obj
+C:\GithubRepo\Okaso-Engine\Okaso\src\Entity\Entity2D\Shape\Shape.cpp;C:\GithubRepo\Okaso-Engine\Okaso\x64\Debug\Shape.obj
+C:\GithubRepo\Okaso-Engine\Okaso\src\Entity\Entity2D\Sprite\Sprite.cpp;C:\GithubRepo\Okaso-Engine\Okaso\x64\Debug\Sprite.obj
+C:\GithubRepo\Okaso-Engine\Okaso\src\Input\Input.cpp;C:\GithubRepo\Okaso-Engine\Okaso\x64\Debug\Input.obj
+C:\GithubRepo\Okaso-Engine\Okaso\src\Renderer\Renderer.cpp;C:\GithubRepo\Okaso-Engine\Okaso\x64\Debug\Renderer.obj
+C:\GithubRepo\Okaso-Engine\Okaso\src\Utils\FilesReader.cpp;C:\GithubRepo\Okaso-Engine\Okaso\x64\Debug\FilesReader.obj
+C:\GithubRepo\Okaso-Engine\Okaso\src\Utils\OkasoDebuger.cpp;C:\GithubRepo\Okaso-Engine\Okaso\x64\Debug\OkasoDebuger.obj
+C:\GithubRepo\Okaso-Engine\Okaso\src\Utils\Time.cpp;C:\GithubRepo\Okaso-Engine\Okaso\x64\Debug\Time.obj
+C:\GithubRepo\Okaso-Engine\Okaso\src\Window\Window.cpp;C:\GithubRepo\Okaso-Engine\Okaso\x64\Debug\Window.obj
